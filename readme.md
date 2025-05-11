@@ -127,5 +127,5 @@ AD-ProjectName
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
 | 8: Conditional Statements in PHP - Procedural PHP Tutorial For Beginners - PHP Tutorial - mmtuts | For reference on making conditional statements in Php. | https://www.youtube.com/watch?v=VcQpzTPHbys |
-| 15 - How to Use and Create Loops in PHP - 2023 - Learn PHP Full Course for Beginners - For reference on making looping statements in Php. | https://www.youtube.com/watch?v=g7h5ndxKV9U |
-| 9: Loops in PHP - Procedural PHP Tutorial For Beginners - PHP Tutorial - mmtuts - For reference on making looping statements in Php. | https://www.youtube.com/watch?v=nGLvamg0efM |
+| 15 - How to Use and Create Loops in PHP - 2023 - Learn PHP Full Course for Beginners | For reference on making looping statements in Php. | https://www.youtube.com/watch?v=g7h5ndxKV9U |
+| 9: Loops in PHP - Procedural PHP Tutorial For Beginners - PHP Tutorial - mmtuts | For reference on making looping statements in Php. | https://www.youtube.com/watch?v=nGLvamg0efM |
