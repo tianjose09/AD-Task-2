@@ -5,11 +5,11 @@
 <br />
 <div align="center">
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Task 1</h3>
+  <h3 align="center">Task 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This is the first activity for the subject Application Development and Emerging Technologies, We are using Php to program.
+  This is the second activity for the subject Application Development and Emerging Technologies, We are using Php to program.
 </div>
 
 <br />
@@ -17,7 +17,7 @@
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 
-![](https://visit-counter.vercel.app/counter.png?page=tianjose09/AD-CI4-Task-1)
+![](https://visit-counter.vercel.app/counter.png?page=tianjose09/AD-CI4-Task-2)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -57,7 +57,7 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-The programmer will utilize conditional and looping statement to showcase skills on producing code using PHP. There are rules to be followed such us, the programmer can choose 2 between: Declarations, Conditional, and Lopping statements. Also, the rules does not include functions, class, and input. 
+The programmer will utilize conditional and looping statement to showcase skills on producing code using PHP. There are rules to be followed such us, the programmer will codekeepingin mind that he will integrate arrays, dictionary, functions, and fragmentation. Also, the rules does not include class and input. 
 
 ### Key Components
 
@@ -125,8 +125,4 @@ AD-ProjectName
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| 8: Conditional Statements in PHP - Procedural PHP Tutorial For Beginners - PHP Tutorial - mmtuts | For reference on making conditional statements in Php. | https://www.youtube.com/watch?v=VcQpzTPHbys |
-| 15 - How to Use and Create Loops in PHP - 2023 - Learn PHP Full Course for Beginners | For reference on making looping statements in Php. | https://www.youtube.com/watch?v=g7h5ndxKV9U |
-| 9: Loops in PHP - Procedural PHP Tutorial For Beginners - PHP Tutorial - mmtuts | For reference on making looping statements in Php. | https://www.youtube.com/watch?v=nGLvamg0efM |
+
