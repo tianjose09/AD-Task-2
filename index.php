@@ -9,8 +9,45 @@
 <body>
 
     <div class="container">
-        <p>Hi! This is my first project in Application Development, I am currently using HTML, CSS, and PHP to create this activity. I hope to learn more and practice this kind of activity. :>></p>
-        <a href="./page/index.php">Proceed to the Main Page</a>
+        <h1>Programming Basics Demo</h1>
+        <h2>Grade Computation System</h2>
+
+        <?php
+        function displayProgrammingBasics(){
+            $subjects = ["Math", "English", "Filipino", "History", "Art"];
+
+            $gradeSystem = [
+                "S" => "100",
+                "A" => "95-99",
+                "B" => "90-94",
+                "C" => "85-89",
+                "D" => "80-84",
+                "E" => "75-79",
+                "F" => "70-74",
+                "Failed" => "Below 70"
+            ];
+
+            echo "<div class='basics-section'>";
+            echo "<h3>Programming Basics Demonstrated:</h3>";
+
+            echo "<p><strong>Array Example (Subjects):</strong> " . implode(", ", $subjects) . "</p>";
+
+            echo "<p><strong>Dictionary Example (Grade System):</strong></p>";
+            echo "<ul class='grade-system'>";
+            foreach ($gradeSystem as $grade => $range){
+                echo "<li>$grade: $range</li>";
+            }
+            echo "</ul>";
+
+            echo"</div>";
+        }
+
+        displayProgrammingBasics();
+        ?>
+
+        <div class="navigation">
+            <a href="/page/index.php" class="btn">Compute Grades</a>
+        </div>
     </div>
 </body>
 </html>

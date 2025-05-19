@@ -1,0 +1,16 @@
+{
+    "name": "alluser/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alluser\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tianjose09",
+            "email": "202310267@fit.edu.ph"
+        }
+    ],
+    "require": {}
+}
